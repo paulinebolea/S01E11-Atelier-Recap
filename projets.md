@@ -3,7 +3,7 @@
 # Pauline Bolea
 *Developpeur web junior, en formation "Développement Web et Accessibilité"*
 
-[Accueil ](\README.md)- [Projet](\projets.md) - [CV](\CV.md) - [Contact](\Contact.md)
+[Accueil](README.md) - [Projet](projets.md) - [CV](CV.md) - [Contact](Contact.md)
 
 ## Mes projets
 
@@ -14,4 +14,4 @@
 |Mme Michu|2017|HTML, CSS|[Mme Michu]()|
 
 ---
-© 2023 - Pauline Bolea - [Me contacter](\Contact.md)
+© 2023 - Pauline Bolea - [Me contacter](Contact.md)
