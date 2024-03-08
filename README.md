@@ -3,7 +3,7 @@
 # Pauline Bolea
 *Developpeur web junior, en formation "Développement Web et Accessibilité"*
 
-[Accueil](README.md) - [Projet](projets.md) - [CV](CV.md) - [Contact](README.md)
+[Accueil](README.md) - [Projet](projets.md) - [CV](CV.md) - [Contact](Contact.md)
 
 ## Présentation
 Je m'appelle Pauline j'ai 35 ans et je vis dans la Drôme avec mon conjoint et nos deux chats.
