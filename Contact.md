@@ -9,7 +9,7 @@
 
 Mes informations de contact :
 
-:mailbox: pauline.bolea(arobase)live.fr
+:mailbox: pauline.bolea@live.fr
 
 :telephone_receiver: 0685465658
 
