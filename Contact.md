@@ -3,7 +3,7 @@
 # Pauline Bolea
 *Developpeur web junior, en formation "Développement Web et Accessibilité"*
 
-[Accueil ](\README.md)- [Projet](\projets.md) - [CV](\CV.md) - [Contact](\Contact.md)
+[Accueil](\README.md) - [Projet](\projets.md) - [CV](\CV.md) - [Contact](\Contact.md)
 
 ## Contact
 Mes informations de contact :
